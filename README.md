@@ -7,6 +7,7 @@
 > ```zsh
 > git clone https://github.com/AAU-ST2-Programming/populations_data_2.git
 > cd populations_data_2
+> git pull
 > ```
 ## Forberedelse
 
